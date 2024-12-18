@@ -12,8 +12,8 @@ import CheckCircleOutlineIcon from "@mui/icons-material/CheckCircleOutline";
 import { Icon } from "@iconify/react";
 import useMediaQuery from "@mui/material/useMediaQuery";
 import { useTheme } from "@mui/material/styles";
-import Headerimg from "../../Images/headericon.jpeg";
-import Logo from "../../Images/Logo.jpeg";
+import Headerimg from "../../Images/box.jpeg";
+import Logo from "../../Images/log.jpeg";
 
 function Navbar() {
   const [open, setOpen] = React.useState(false);

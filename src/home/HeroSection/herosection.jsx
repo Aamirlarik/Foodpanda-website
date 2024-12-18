@@ -8,7 +8,7 @@ import {
   Typography,
 } from "@mui/material";
 import GpsFixedIcon from "@mui/icons-material/GpsFixed";
-import hero from "../../Images/hero-img.webp";
+import hero from "../../Images/hero-.webp";
 
 const HeroSection = () => {
   return (
